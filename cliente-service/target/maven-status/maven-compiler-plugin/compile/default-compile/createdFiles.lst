@@ -1,0 +1,6 @@
+pe\huaripaucar\jesus\ClienteServiceApplication.class
+pe\huaripaucar\jesus\model\Cliente.class
+pe\huaripaucar\jesus\service\ClienteService.class
+pe\huaripaucar\jesus\repository\ClienteRepository.class
+pe\huaripaucar\jesus\model\EstadoCliente.class
+pe\huaripaucar\jesus\controller\ClienteController.class

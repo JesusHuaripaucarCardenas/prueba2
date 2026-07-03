@@ -1,0 +1,8 @@
+pe\huaripaucar\jesus\AlquilerServiceApplication.class
+pe\huaripaucar\jesus\model\EstadoAlquiler.class
+pe\huaripaucar\jesus\model\Alquiler.class
+pe\huaripaucar\jesus\client\ClienteClient.class
+pe\huaripaucar\jesus\client\ClienteDTO.class
+pe\huaripaucar\jesus\service\AlquilerService.class
+pe\huaripaucar\jesus\repository\AlquilerRepository.class
+pe\huaripaucar\jesus\controller\AlquilerController.class
